@@ -189,34 +189,10 @@ Database
 17. Conclusion
 The Intelligent Shopping Advisor demonstrates the practical application of multi-agent AI systems in real-world decision-making. By combining LangGraph orchestration, NLP, and data-driven ranking, the system provides accurate and explainable product recommendations.
 This project successfully meets all assignment requirements and showcases the power of Generative AI in intelligent recommendation systems.
-
-Architectural Diagram:
- 
-Flow-Chart:
- 
-Database Connection: Mongos DB
- 
- 
- 
- 
-Code Working:
- 
-Frontend On React:
- 
-Backend:
- 
-Web-Page:
-Give Query for checking normal phone and it gives Medium performance and also rating give >=3:
- 
- 
-Give Query for show phone in budget from 100000 to 120000:
- 
- 
-Give Query for Best Gaming laptop in budget from 10000 to 150000:
  
  
 Project Video:
 https://drive.google.com/file/d/1al-WNljngawRC6TebOM69doZPZFqH9m-/view?usp=sharing=sharing
-GitHub Repo:
+
 
 
